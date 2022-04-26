@@ -1,4 +1,6 @@
- Hello there!! 👋
+ <div  align="center">
+ <h1>Hello there!! 👋</h1>
+ </div>
 
 
 - 🔭 I’m currently working with front-end.
